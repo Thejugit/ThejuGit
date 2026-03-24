@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="35px">
   <h1>Thejesh Mughilan</h1>
   <p><strong>Digital Craftsman</strong></p>
 </div>
 
-Passionate software engineer and developer who loves building amazing projects. Welcome to my GitHub! 🚀
+A passionate software engineering student with a keen interest in machine learning, data science, and full stack development.
 
 ---
 
-## 📊 Stats & Social
+## Stats & Social
 
 <div align="center">
 
@@ -26,7 +25,7 @@ Passionate software engineer and developer who loves building amazing projects. 
 
 ---
 
-## 💻 Languages and Tools
+## Languages and Tools
 
 <div align="center">
 
@@ -47,17 +46,8 @@ Passionate software engineer and developer who loves building amazing projects. 
 
 </div>
 
----
 
-## 🎬 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-Subscribe to my YouTube channel for the latest videos! 🔔
-<!-- END YOUTUBE-CARDS -->
-
----
-
-## 📦 Popular Repositories
+## Popular Repositories
 
 <div align="center">
 
@@ -72,7 +62,7 @@ Subscribe to my YouTube channel for the latest videos! 🔔
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -84,7 +74,7 @@ Subscribe to my YouTube channel for the latest videos! 🔔
 
 ---
 
-## 🎯 Current Projects
+## Current Projects
 
 - 🔨 Working on something cool...
 - 📚 Learning new technologies
@@ -93,7 +83,7 @@ Subscribe to my YouTube channel for the latest videos! 🔔
 
 ---
 
-## 💬 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
