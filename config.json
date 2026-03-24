@@ -1,0 +1,114 @@
+{
+  "profile": {
+    "name": "John Doe",
+    "title": "Digital Craftsman",
+    "bio": "Passionate software engineer and developer who loves building amazing projects. Welcome to my GitHub! 🚀",
+    "avatar": "https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif",
+    "username": "YOUR_USERNAME"
+  },
+
+  "social": {
+    "twitter": "https://twitter.com/yourhandle",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "email": "your@email.com",
+    "portfolio": "https://yourportfolio.com",
+    "youtube": "https://youtube.com/@yourhandle"
+  },
+
+  "languages_and_tools": {
+    "primary": [
+      {
+        "name": "Java",
+        "color": "ED8B00",
+        "icon": "java"
+      },
+      {
+        "name": "JavaScript",
+        "color": "323330",
+        "icon": "javascript"
+      },
+      {
+        "name": "TypeScript",
+        "color": "007ACC",
+        "icon": "typescript"
+      },
+      {
+        "name": "React",
+        "color": "20232A",
+        "icon": "react"
+      },
+      {
+        "name": "Node.js",
+        "color": "339933",
+        "icon": "nodedotjs"
+      },
+      {
+        "name": "Python",
+        "color": "3776AB",
+        "icon": "python"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Linux",
+        "color": "FCC624",
+        "icon": "linux"
+      },
+      {
+        "name": "Git",
+        "color": "E34C26",
+        "icon": "git"
+      },
+      {
+        "name": "Docker",
+        "color": "2496ED",
+        "icon": "docker"
+      },
+      {
+        "name": "MongoDB",
+        "color": "13AA52",
+        "icon": "mongodb"
+      },
+      {
+        "name": "PostgreSQL",
+        "color": "316192",
+        "icon": "postgresql"
+      },
+      {
+        "name": "Cloudflare",
+        "color": "F38020",
+        "icon": "cloudflare"
+      }
+    ]
+  },
+
+  "projects": [
+    {
+      "name": "Project One",
+      "url": "https://github.com/YOUR_USERNAME/repo1",
+      "description": "Amazing project description"
+    },
+    {
+      "name": "Project Two",
+      "url": "https://github.com/YOUR_USERNAME/repo2",
+      "description": "Cool project description"
+    },
+    {
+      "name": "Project Three",
+      "url": "https://github.com/YOUR_USERNAME/repo3",
+      "description": "Awesome project description"
+    }
+  ],
+
+  "current_projects": [
+    "🔨 Working on something cool...",
+    "📚 Learning new technologies",
+    "🤝 Open to collaborations"
+  ],
+
+  "youtube": {
+    "enabled": false,
+    "update_frequency": "daily",
+    "videos_to_show": 6
+  }
+}
