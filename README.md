@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Thejesh Mughilan</h1>
-  <p><strong>Digital Craftsman</strong></p>
+  <p><strong>Software Engineering Student</strong></p>
 </div>
 
 A passionate software engineering student with a keen interest in machine learning, data science, and full stack development.
@@ -44,7 +44,7 @@ A passionate software engineering student with a keen interest in machine learni
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 
-</div>
+<!-- </div>
 
 
 ## Popular Repositories
@@ -58,7 +58,7 @@ A passionate software engineering student with a keen interest in machine learni
 | [Project Three](https://github.com/YOUR_USERNAME/repo3) | Awesome project description | ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/repo3?style=flat) |
 
 
-</div>
+</div> -->
 
 ---
 
@@ -76,9 +76,9 @@ A passionate software engineering student with a keen interest in machine learni
 
 ## Current Projects
 
-- 🔨 Working on something cool...
-- 📚 Learning new technologies
-- 🤝 Open to collaborations
+-  Working on something cool...
+-  Learning new technologies
+-  Open to collaborations
 
 
 ---
@@ -99,6 +99,6 @@ A passionate software engineering student with a keen interest in machine learni
 ---
 
 <div align="center">
-  <p><strong>⭐ If you like my work, consider giving some projects a star!</strong></p>
-  <p>Thanks for visiting! 👋</p>
+  <p><strong> If you like my work, consider giving some projects a star!</strong></p>
+  <p>Thanks for visiting! </p>
 </div>
