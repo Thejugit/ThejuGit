@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="35px">
-  <h1>John Doe</h1>
+  <h1>Thejesh Mughilan</h1>
   <p><strong>Digital Craftsman</strong></p>
 </div>
 
